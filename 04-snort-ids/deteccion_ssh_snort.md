@@ -111,4 +111,3 @@ robusta combina varias señales.
 - Visión de **defensa en profundidad**: el hardening de SSH (claves, `PasswordAuthentication
   no`) previene el ataque; el IDS lo detecta si la prevención falla. Prevención y detección
   son capas complementarias, no alternativas.
-```
